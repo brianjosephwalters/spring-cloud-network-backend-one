@@ -1,0 +1,1 @@
+docker run -p 9001:9001 --name=backend-one-service backend-one-service
